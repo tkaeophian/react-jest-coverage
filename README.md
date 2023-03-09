@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Testing Strucure
 
 ```
-1. Descript test block
+1. Describe test block
 2. create Test Block -> it('.....')
 3. Render a component we want to test
 4. Find element we want to interact with
