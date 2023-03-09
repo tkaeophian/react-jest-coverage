@@ -1,4 +1,4 @@
-# React Testing Library
+# React Jest, Component and Integration Testing
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
